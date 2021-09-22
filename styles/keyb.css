@@ -1,4 +1,12 @@
 /* CSS Document */
+input[type="button" i] {
+	background-color: #fff;
+	    border-color: #000;
+			border-style: solid;
+			border-width: 1px;
+
+
+}
 
 .keyboard {
 	width: 100vw;
@@ -18,11 +26,11 @@
   height: 80px;
 	font-size: 22px;
 	background: white;
-	border: 1px solid 000;
+	border: 1px solid #000;
 }
 
 .button:hover {
-	background: red;
+	background: black;
 	color: white;
 }
 
